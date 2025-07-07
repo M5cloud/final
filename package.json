@@ -1,5 +1,5 @@
 {
-  "homepage": "https://M5cloud.github.io/hello",
+"homepage": "https://M5cloud.github.io/final",
   "name": "vite-project",
   "private": true,
   "version": "0.0.0",
@@ -11,6 +11,7 @@
   "predeploy": "npm run build",
   "deploy": "gh-pages -d dist"
 }
+
 ,
   "dependencies": {
     "react": "^19.1.0",
